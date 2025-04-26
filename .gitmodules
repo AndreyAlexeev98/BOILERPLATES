@@ -1,0 +1,3 @@
+[submodule "NEXTJS"]
+	path = NEXTJS
+	url = https://github.com/AndreyAlexeev98/NEXTJS.git
